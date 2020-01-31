@@ -1,0 +1,6 @@
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\obj\Debug\Quiz01.csprojAssemblyReference.cache
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\bin\Debug\Quiz01.exe.config
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\bin\Debug\Quiz01.exe
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\bin\Debug\Quiz01.pdb
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\obj\Debug\Quiz01.exe
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Quiz\Quiz01\obj\Debug\Quiz01.pdb
