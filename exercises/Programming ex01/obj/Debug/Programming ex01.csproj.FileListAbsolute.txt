@@ -1,0 +1,6 @@
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\obj\Debug\Programming ex01.csprojAssemblyReference.cache
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\bin\Debug\Programming ex01.exe.config
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\bin\Debug\Programming ex01.exe
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\bin\Debug\Programming ex01.pdb
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\obj\Debug\Programming ex01.exe
+C:\Users\baber\Documents\College\Embry Riddle\ISTA 220\Week 1\Exercies\Programming ex01\obj\Debug\Programming ex01.pdb
